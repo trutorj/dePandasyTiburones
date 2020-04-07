@@ -1,0 +1,477 @@
+,Country,Sex,Activity
+0,MEXICO,M,Free diving
+1,AUSTRALIA,M,Feeding
+2,AUSTRALIA,F,Feeding
+3,AUSTRALIA,M,Kayak fishing
+4,MALAYSIA,M,Fishing
+5,USA,M,Fishing
+6,MEXICO,M,Fishing
+7,USA,F,Touching
+8,AUSTRALIA,M,Attempting
+9,BRAZIL,F,Grabbing
+10,AUSTRALIA,M,Surf fishing
+11,AUSTRALIA,M,Fishing
+12,USA,M,Lobstering
+13,AUSTRALIA,M,Fishing
+14,USA,M,Fishing
+15,AUSTRALIA,M,Fishing
+16,AUSTRALIA,M,Spearfishing
+17,USA,F,Teasing
+18,NEW ZEALAND,M,Fishing
+19,FRENCH POLYNESIA,M,Spearfishing
+20,FRENCH POLYNESIA,M,Spearfishing
+21,USA,M,Kayak Fishing
+22,USA,M,Spearfishing
+23,USA,M,Kayak Fishing
+24,AUSTRALIA,M,Swimming
+25,MEXICO,M,Fishing
+26,USA,M,Shark fishing
+27,AUSTRALIA,M,Fishing
+28,SPAIN,M,Fishing
+29,MAURITIUS,M,Fishing
+30,AUSTRALIA,M,Surfing
+31,USA,M,Fishing
+32,USA,M,Fishing
+33,USA,M,Fishing
+34,USA,M,Swimming
+35,AUSTRALIA,M,Petting
+36,AUSTRALIA,M,Teasing
+37,SOUTH AFRICA,M,Fishing
+38,TRINIDAD & TOBAGO,M,Fishing
+39,AUSTRALIA,M,Fishing
+40,BAHAMAS,M,Shark fishing
+41,USA,M,Surfing
+42,FRANCE,M,Longline fishing
+43,USA,M,Fishing
+44,PALESTINIAN TERRITORIES,M,Fishing
+45,AUSTRALIA,M,Fishing
+46,SOUTH AFRICA,M,Fishing
+47,SCOTLAND,M,Shark fishing
+48,USA,M,Fishing
+49,ITALY,M,Attempting
+50,AUSTRALIA,F,Diving
+51,CHILE,M,Fishing
+52,USA,M,Kite Surfing
+53,TAIWAN,M,Fishing
+54,USA,M,Canoeing
+55,DOMINICAN REPUBLIC,M,Fishing
+56,USA,M,Fishing
+57,USA,M,Standing
+58,AUSTRALIA,M,Fishing
+59,AUSTRALIA,M,Fishing
+60,MEXICO,M,Shark fishing
+61,MEXICO,M,Shark fishing
+62,USA,M,Snorkeling
+63,AZORES,M,Fishing
+64,AUSTRALIA,F,Fishing
+65,SPAIN,M,Swimming
+66,USA,M,Fishing
+67,USA,M,Fishing
+68,USA,M,Fishing
+69,USA,M,Measuring
+70,NEW ZEALAND,M,Spearfishing
+71,USA,M,Surf fishing
+72,NEW ZEALAND,F,Boogie Boarding
+73,AUSTRALIA,M,Swimming
+74,USA,M,Diving
+75,SCOTLAND,M,Diving
+76,UNITED KINGDOM,M,Fishing
+77,SOMALIA,M,Fishing
+78,SOLOMON ISLANDS,M,Fishing
+79,BAHAMAS,M,Spearfishing
+80,USA,F,Swimming
+81,VIETNAM,M,Fishing
+82,TAIWAN,M,Fishing
+83,USA,M,Swimming
+84,GUAM,M,Spearfishing
+85,BAHAMAS,M,Spearfishing
+86,SOUTH AFRICA,M,Fishing
+87,AUSTRALIA,M,Wading
+88,SOUTH AFRICA,M,Fishing
+89,AZORES,M,Fishing
+90,SOUTH AFRICA,M,Fishing
+91,AUSTRALIA,M,Scuba diving
+92,AUSTRALIA,M,Fishing
+93,AUSTRALIA,M,Swimming
+94,ENGLAND,M,Fishing
+95,USA,M,Surfing
+96,SOUTH AFRICA,M,Fishing
+97,USA,M,Surfing
+98,JAPAN,M,Diving
+99,AUSTRALIA,M,before attempting
+100,USA,M,Fishing
+101,AUSTRALIA,M,Fishing
+102,USA,M,Diving
+103,USA,M,Fishing
+104,NORWAY,M,Scuba diving
+105,USA,M,Removing
+106,USA,F,Reviving
+107,ENGLAND,M,Fishing
+108,BAHAMAS,F,Shark tagging
+109,USA,M,Shark fishing
+110,NEW ZEALAND,M,Spearfishing
+111,SOUTH AFRICA,M,Fishing
+112,SOUTH AFRICA,M,Canoeing
+113,USA,M,Diving
+114,USA,M,Fishing
+115,USA,M,Spearfishing
+116,AUSTRALIA,M,Snorkeling
+117,USA,M,Fishing
+118,SOUTH AFRICA,M,Fishing
+119,USA,M,Wading
+120,THAILAND,M,Removing
+121,CHINA,M,Scuba diving
+122,AUSTRALIA,M,Fishing
+123,USA,M,Diving
+124,NEW ZEALAND,M,Fishing
+125,USA,M,Spearfishing
+126,AUSTRALIA,M,Spearfishing
+127,BAHAMAS,M,Free diving
+128,PANAMA,M,Spearfishing
+129,USA,M,Surfing
+130,USA,M,Fishing
+131,USA,M,Walking
+132,USA,M,Surfing
+133,BRAZIL,M,Killing
+134,USA,F,Petting
+135,USA,M,Fishing
+136,TONGA,M,Swimming
+137,USA,M,Wading
+138,UNITED KINGDOM,M,Diving
+139,USA,M,Surfing
+140,USA,M,Shark Fishing
+141,USA,M,Fishing
+142,AUSTRALIA,M,Fishing
+143,USA,M,Surfing
+144,UNITED KINGDOM,M,Diving
+145,USA,M,Fishing
+146,USA,M,Spearfishing
+147,PHILIPPINES,M,Shark fishing
+148,AUSTRALIA,M,Snorkeling
+149,USA,M,Conducting
+150,ENGLAND,M,Feeding
+151,USA,M,Wading
+152,NEW ZEALAND,M,Fishing
+153,USA,M,Surfing
+154,JAPAN,M,Fishing
+155,SENEGAL,M,Spearfishing
+156,SOUTH AFRICA,M,Moving
+157,USA,M,Scuba diving
+158,SOUTH AFRICA,M,Spearfishing
+159,USA,F,Swimming
+160,USA,M,Wading
+161,USA,F,Fishing
+162,AUSTRALIA,M,Snorkeling
+163,USA,F,Wading
+164,USA,M,Removing
+165,USA,M,Fishing
+166,AUSTRALIA,M,Fishing
+167,USA,M,Snorkeling
+168,USA,M,Fishing
+169,AUSTRALIA,M,Finning
+170,USA,M,Fishing
+171,USA,M, fishing
+172,USA,M,Fishing
+173,USA,M,Filming
+174,AUSTRALIA,M,Feeding
+175,AUSTRALIA,M,Fishing
+176,SOUTH AFRICA,M,Fishing
+177,USA,M,Diving
+178,USA,M,Fishing
+179,SOUTH AFRICA,M,Attempting
+180,USA,M,Fishing
+181,AUSTRALIA,M,Fishing
+182,SOUTH AFRICA,M,NSB Meshing
+183,AUSTRALIA,M,Fishing
+184,USA,M,Fishing
+185,USA,M,Fishing
+186,SOUTH AFRICA,M,Spearfishing
+187,SOUTH AFRICA,M,Spearfishing
+188,USA,M,Spearfishing
+189,MEXICO,M,Spearfishing
+190,SOUTH AFRICA,M,Fishing
+191,SOUTH AFRICA,M,Scuba diving
+192,USA,M,Skindiving
+193,USA,M,Fishing
+194,USA,M,Fishing
+195,SOUTH AFRICA,M,Fishing
+196,SOUTH AFRICA,M,Inspecting
+197,USA,M,Spearfishing
+198,NAMIBIA,M,Finning
+199,USA,F,Scuba diving
+200,JAMAICA,M,Spearfishing
+201,SOUTH AFRICA,M,Fishing
+202,SOUTH AFRICA,M,Spearfishing
+203,NORTH ATLANTIC OCEAN,M,Gaffing
+204,SOUTH AFRICA,M,Fishing
+205,SOUTH AFRICA,M,Spearfishing
+206,USA,M,Fishing
+207,SOUTH AFRICA,M,Standing
+208,USA,M,Spearfishing
+209,ITALY,M,Fishing
+210,AUSTRALIA,M,Filming
+211,AUSTRALIA,M,Spearfishing
+212,SOUTH AFRICA,M,Attempting
+213,SOUTH AFRICA,M,Fishing
+214,SOUTH AFRICA,M,Fishing
+215,PACIFIC OCEAN ,M,Fishing
+216,AUSTRALIA,M,Scuba diving
+217,PALAU,M,Spearfishing
+218,USA,M,Fishing
+219,SOUTH AFRICA,M,Scuba Diving
+220,USA,M,Fishing
+221,USA,M,fishing
+222,USA,M,Diving
+223,USA,M,Fishing
+224,AUSTRALIA,M,Fishing
+225,AUSTRALIA,M,Feeding
+226,NEW ZEALAND,F,Picking
+227,AUSTRALIA,M,Freediving
+228,FIJI,M,Freediving
+229,ITALY,M,Scuba diving
+230,USA,M,Pulling
+231,USA,M,Spearfishing
+232,ITALY,M,Fishing
+233,AUSTRALIA,M,Feeding
+234,UNITED KINGDOM,M,Fishing
+235,NEW ZEALAND,M,Freediving
+236,AUSTRALIA,M,Spearfishing
+237,SOUTH AFRICA,M,Spearfishing
+238,AUSTRALIA,M,Splashing
+239,AUSTRALIA,M,Spearfishing
+240,USA,M,Fishing
+241,AUSTRALIA,M,Spearfishing
+242,USA,M,Hunting
+243,USA,M,Killing
+244,USA,M,Clamming
+245,USA,M,Fishing
+246,FRENCH POLYNESIA,M,Fishing
+247,SOUTH AFRICA,M,Helping
+248,AUSTRALIA,M,Fishing
+249,PAPUA NEW GUINEA,M,Spearing
+250,PAPUA NEW GUINEA,M,Fishing
+251,BAHAMAS,M,Attempting
+252,USA,M,Surfing
+253,USA,M,Collecting
+254,AUSTRALIA,M,Filming
+255,SOUTH AFRICA,M,Surf fishing
+256,USA,M,Tagging
+257,SOUTH AFRICA,M,Helping
+258,AUSTRALIA,M,Fishing
+259,PAPUA NEW GUINEA,F,Fishing
+260,AUSTRALIA,M,Catching
+261,USA,M,Testing
+262,NORTH PACIFIC OCEAN,M,Fishing
+263,AUSTRALIA,M,Surfing
+264,USA,M,Spearfishing
+265,USA,M,Fishing
+266,PAPUA NEW GUINEA,M,Fishing
+267,AUSTRALIA,M,Fishing
+268,SOUTH AFRICA,M,Fishing
+269,SOUTH AFRICA,M,Scuba diving
+270,ISRAEL,M,Fishing
+271,PAPUA NEW GUINEA,M,Fishing
+272,USA,M,Diving
+273,MADAGASCAR,M,Finning
+274,USA,M,Fishing
+275,USA,M,Scuba diving
+276,NEW ZEALAND,M,Swimming
+277,AUSTRALIA,M,Spearfishing
+278,AUSTRALIA,M,Spearfishing
+279,TANZANIA,M,Fishing
+280,ITALY,M,Fishing
+281,PAPUA NEW GUINEA,M,Fishing
+282,USA,M,Spearfishing
+283,PANAMA,M,Fishing
+284,PAPUA NEW GUINEA,M,Fishing
+285,AUSTRALIA,M,Spearfishing
+286,AUSTRALIA,M,Spearfishing
+287,SOUTH AFRICA,M,Diving
+288,AUSTRALIA,M,Spearfishing
+289,AUSTRALIA,M,Spearfishing
+290,AUSTRALIA,F,Fishing
+291,SOUTH AFRICA,M,Fishing
+292,USA,M,Cleaning
+293,AUSTRALIA,M,Collecting
+294,AUSTRALIA,M,Fishing
+295,AUSTRALIA,M,Chasing
+296,USA,M,Fishing
+297,USA,M,Holding
+298,ENGLAND,M,Helping
+299,USA,M,Fishing
+300,USA,M,Surf fishing
+301,NORTH SEA,M,Fishing
+302,AUSTRALIA,M,Fishing
+303,SOUTH AFRICA,M,Fishing
+304,AUSTRALIA,M,Spearfishing
+305,PHILIPPINES,M,Fishing
+306,SENEGAL,M,Fishing
+307,AUSTRALIA,M,Spearfishing
+308,AUSTRALIA,M,Fishing
+309,SOUTH AFRICA,F,Standing
+310,AUSTRALIA,M,Spearfishing
+311,AUSTRALIA,M,Spearfishing
+312,PAPUA NEW GUINEA,M,Fishing
+313,USA,M,Fishing
+314,USA,M,Spearfishing
+315,CROATIA,M,Fishing
+316,USA,M,Dragging
+317,USA,M,Free diving
+318,SOUTH AFRICA,M,Spearfishing
+319,PAPUA NEW GUINEA,M,Fishing
+320,ATLANTIC OCEAN,M,Paddling
+321,PAPUA NEW GUINEA,M,Fishing
+322,USA,M,Spearfishing
+323,USA,M,Free diving
+324,USA,M,Wading
+325,USA,M,Swimming
+326,USA,M,Free diving
+327,USA,M,Spearfishing
+328,TONGA,M,Spearfishing
+329,PANAMA,M,Skindiving
+330,USA,M,Attempting
+331,USA,M,Spearfishing
+332,USA,M,Standing
+333,NEW ZEALAND,M,Fishing
+334,AUSTRALIA,M,Diving
+335,UNITED KINGDOM,M,Attempting
+336,UNITED KINGDOM,M,Attempting
+337,USA,M,Floating
+338,USA,M,Fishing
+339,USA,M,Removing
+340,AUSTRALIA,M,Spearfishing
+341,USA,M,Surfing
+342,USA,M,Fishing
+343,USA,M,Spearfishing
+344,AUSTRALIA,M,Competing
+345,CUBA,M,Fishing
+346,UNITED KINGDOM,M,Fishing
+347,CUBA,M,Spearfishing
+348,CUBA,M,Spearfishing
+349,SUDAN?,M,Spearfishing
+350,USA,M,Fishing
+351,AUSTRALIA,M,Landing
+352,USA,M,while cutting
+353,AUSTRALIA,M,Fishing
+354,ITALY,M,Fishing
+355,USA,M,Fishing
+356,USA,M,Fishing
+357,USA,M,Fishing
+358,SUDAN,M,Spearfishing
+359,MAURITIUS,M,Spearfishing
+360,AUSTRALIA,M,Spearfishing
+361,AUSTRALIA,M,Diving
+362,EL SALVADOR,M,pole fishing
+363,USA,M,Fishing
+364,AUSTRALIA,M,Examining
+365,AUSTRALIA,M,Fishing
+366,BAHAMAS,M,Spearing
+367,IRAN,M,Fishing
+368,SOUTH AFRICA,M,Bringing
+369,PAPUA NEW GUINEA,M,Spearfishing
+370,PAPUA NEW GUINEA,M,Spearfishing
+371,USA,M,Fishing
+372,PACIFIC OCEAN,M,Moving
+373,BAHAMAS,M,Attempting
+374,PACIFIC OCEAN,M,rubber ding
+375,ITALY,M,Sculling
+376,AUSTRALIA,M,skiing
+377,USA,M,Fishing
+378,USA,M,Fishing
+379,USA,M,Fishing
+380,AUSTRALIA,M,Fishing
+381,JAMAICA,M,Seine netting
+382,AUSTRALIA,M,Collecting
+383,USA,M,Fishing
+384,BAHAMAS,M,Dress diving
+385,USA,M,Seine netting
+386,NEW ZEALAND,M,Fishing
+387,AUSTRALIA,M,Fishing
+388,USA,M,Fishing
+389,TURKEY,M,Fishing
+390,USA,M,Fishing
+391,AUSTRALIA,M,Fishing
+392,SOUTH AFRICA,M,Watching
+393,USA,M,Fishing
+394,CROATIA,M,Fishing
+395,AUSTRALIA,M,Fishing
+396,USA,M,Fishing
+397,AUSTRALIA,M,Fishing
+398,AUSTRALIA,M,Holding
+399,AUSTRALIA,M,Spearfishing
+400,USA,M,Fishing
+401,AUSTRALIA,F,Touching
+402,AUSTRALIA,M,Paddleskiing
+403,AUSTRALIA,M,Hauling
+404,BERMUDA,M,Fishing
+405,BERMUDA,M,Fishing
+406,AUSTRALIA,M,Fishing
+407,USA,M,Fishing
+408,AUSTRALIA,M,Fishing
+409,AUSTRALIA,M,Fishing
+410,NEW ZEALAND,M,Fishing
+411,USA,M,Fishing
+412,BAHAMAS,M,expedition filming
+413,USA,M,Fishing
+414,USA,M,Fishing
+415,MEXICO,M,Fishing
+416,USA,M,Gaffing
+417,AUSTRALIA,M,Fishing
+418,AUSTRALIA,M,Removing
+419,USA,M,Fishing
+420,AUSTRALIA,M,Standing
+421,AUSTRALIA,M,Wading
+422,USA,M,Fishing
+423,USA,M,Fishing
+424,ITALY,M,Boating
+425,NICARAGUA,M,Feeling
+426,NEW ZEALAND,M,Fishing
+427,SPAIN,M,Fishing
+428,FRENCH POLYNESIA,M,Pearl diving
+429,ENGLAND,M,Fishing
+430,USA,M,Removing
+431,USA,M,Hoisting
+432,USA,M,Hoisting
+433,ENGLAND,M,Fishing
+434,USA,M,Stuffing
+435,USA,M,Fishing
+436,USA,M,Fishing
+437,USA,F,Fishing
+438,USA,M,Fishing
+439,AUSTRALIA,M,Hauling
+440,AUSTRALIA,M,hat diving
+441,USA,M,Fishing
+442,USA,M,Fishing
+443,NORTH ATLANTIC OCEAN,M,Fishing
+444,AUSTRALIA,M,Fishing
+445,USA,M,Seine netting
+446,SPAIN,M,Fishing
+447,USA,M,Fishing
+448,AUSTRALIA,M,Shooting
+449,USA,M,Fishing
+450,ITALY,M,Fishing
+451,USA,M,Swimming
+452,NEW ZEALAND,M,Standing
+453,USA,M,Hunting
+454,ITALY,M,Fishing
+455,USA,M,Angling
+456,USA,M,Fishing
+457,USA,M,Fishing
+458,USA,M,Fishing
+459,AUSTRALIA,M,Fishing
+460,AUSTRALIA,M,Dress diving
+461,USA,M,Shooting
+462,GEORGIA,M,Fishing
+463,NEW ZEALAND,M,Restraining
+464,USA,M,Fishing
+465,USA,M,Fishing
+466,USA,M,Shark fishing
+467,FRANCE,M,Dragging
+468,USA,M,Fishing
+469,PACIFIC OCEAN,M,Fishing
+470,ENGLAND,M,Fishing
+471,VANUATU,M,Attempting
+472,USA,M,Skin diving
+473,BAHAMAS,M,Testing
+474,CUBA,M,Shark fishing
+475,BURMA,M,Carrying
